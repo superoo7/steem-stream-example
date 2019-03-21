@@ -1,0 +1,17 @@
+{
+  "name": "getOpStream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dsteem": "^0.11.2",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  }
+}
